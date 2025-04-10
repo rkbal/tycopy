@@ -1,5 +1,5 @@
 ---
-title: 'Manage mTLS secrets (certificates/keys) in Thycotic Secret Server using a Python script.'
+title: 'Manage mTLS secrets (certificates/keys) in Thycotic Secret Server using a Python script for CA healthcare AI modules.'
 tags:
   - Python
   - thycotic
@@ -12,12 +12,12 @@ date: 10 April 2025
 
 # Summary
 
-Manage TLS secrets (certificates/keys) in Thycotic Secret Server using a Python script. 
+Manage mTLS secrets (certificates/keys) in Thycotic Secret Server using a Python script for CA healthcare AI modules. 
 
 
 # Statement of need
 
-Automate the retrieval, renewal, or rotation of mTLS certificates stored in **Thycotic Secret Server**, using Python scripts via the **REST API**, integrated into a **Jenkins pipeline**.
+Automate the retrieval, renewal, or rotation of mTLS certificates stored in **Thycotic Secret Server**, using Python scripts via the **REST API**, integrated into a **Jenkins pipeline** for CA healthcare AI modules.
 
 
 # Prerequisites:
